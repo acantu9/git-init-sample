@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family:'Veranda', Calibri, serif ;
+}
+
+header {
+    word-spacing: 20px;
+    text-align: right;
+    background-color: #26604F;
+    height: 30px;
+}
+
+#line {
+    height: 5px;
+    background-color: #DDAF95;
+}
+
+#web {
+    color: #504846;
+}
+
+#contact {
+    color: #504846;
+    text-align: center;
+    background-color: #E8CEBF;
+    height: 150px;
+}
+
+footer {
+    text-align: center;
+    background-color: #26604F;
+}
